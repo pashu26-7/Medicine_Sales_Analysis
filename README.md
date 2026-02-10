@@ -32,6 +32,7 @@ Contains demographic and background information of customers.
 | OtherCustomerInfo | String | Additional customer details |
 
 ---
+![alt text](image.png)
 
 ### 2. Drugs Lookup Table
 Provides information related to medicines available for sale.
@@ -46,6 +47,7 @@ Provides information related to medicines available for sale.
 | Treats | String | Medical purpose |
 
 ---
+![alt text](image-1.png)
 
 ### 3. Sales Transactions Table
 Stores individual sales transaction details.
@@ -60,6 +62,7 @@ Stores individual sales transaction details.
 | BuyerType | String | Seller or User |
 
 ---
+![alt text](image-2.png)
 
 ### Summary
 - **Customer Table** → Customer demographics  
